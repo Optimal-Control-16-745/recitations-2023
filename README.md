@@ -6,3 +6,4 @@ Video Links:
 2. [1/27 recitation (Newton's method, constrained optimization)](https://youtu.be/7Z1p-cj36_U)
 3. [2/2 recitation (KKT Conditions, Augmented Lagrangian)](https://youtu.be/qGoGGSpg9Fs)
 4. [2/10 recitation (LQR pt. 1)](https://youtu.be/Sv5dmh6Gjn0)
+5. [2/17 recitation (HW1 review, Convex.jl tutorial)](https://youtu.be/934sed8G_tA)
