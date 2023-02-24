@@ -7,3 +7,4 @@ Video Links:
 3. [2/2 recitation (KKT Conditions, Augmented Lagrangian)](https://youtu.be/qGoGGSpg9Fs)
 4. [2/10 recitation (LQR pt. 1)](https://youtu.be/Sv5dmh6Gjn0)
 5. [2/17 recitation (HW1 review, Convex.jl tutorial)](https://youtu.be/934sed8G_tA)
+6. [2/24 recitation (MPC, HW2)](https://youtu.be/oB2haX6KW10)
