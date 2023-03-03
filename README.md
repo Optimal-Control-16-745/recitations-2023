@@ -8,3 +8,4 @@ Video Links:
 4. [2/10 recitation (LQR pt. 1)](https://youtu.be/Sv5dmh6Gjn0)
 5. [2/17 recitation (HW1 review, Convex.jl tutorial)](https://youtu.be/934sed8G_tA)
 6. [2/24 recitation (MPC, HW2)](https://youtu.be/oB2haX6KW10)
+7. [3/2 recitation (Rotation Matrices, Quaternions, Planning with Attitude)](https://youtu.be/hw17MjP0LLo)
