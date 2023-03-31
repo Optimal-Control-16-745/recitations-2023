@@ -11,3 +11,4 @@ Video Links:
 7. [3/2 recitation (Rotation Matrices, Quaternions, Planning with Attitude)](https://youtu.be/hw17MjP0LLo)
 8. [3/17 recitation (LQR, Discretization, Linearization)](https://youtu.be/O2dpemKCLWU)
 9. [2/24 recitation (DIRCOL, iLQR, HW3)](https://youtu.be/yGD4SsiRafE)
+10. [3/31 recitation (Collision Avoidance, DCOL)](https://youtu.be/QLc0vrAigac)
