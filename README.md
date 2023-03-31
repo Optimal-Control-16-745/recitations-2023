@@ -10,3 +10,4 @@ Video Links:
 6. [2/24 recitation (MPC, HW2)](https://youtu.be/oB2haX6KW10)
 7. [3/2 recitation (Rotation Matrices, Quaternions, Planning with Attitude)](https://youtu.be/hw17MjP0LLo)
 8. [3/17 recitation (LQR, Discretization, Linearization)](https://youtu.be/O2dpemKCLWU)
+9. [2/24 recitation (DIRCOL, iLQR, HW3)](https://youtu.be/yGD4SsiRafE)
